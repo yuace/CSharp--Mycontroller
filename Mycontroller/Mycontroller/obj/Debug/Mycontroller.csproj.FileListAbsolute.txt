@@ -1,0 +1,10 @@
+C:\Users\ZY\Desktop\Mycontroller\Mycontroller\Mycontroller\bin\Debug\Mycontroller.exe.config
+C:\Users\ZY\Desktop\Mycontroller\Mycontroller\Mycontroller\bin\Debug\Mycontroller.exe
+C:\Users\ZY\Desktop\Mycontroller\Mycontroller\Mycontroller\bin\Debug\Mycontroller.pdb
+C:\Users\ZY\Desktop\Mycontroller\Mycontroller\Mycontroller\obj\Debug\Mycontroller.csprojAssemblyReference.cache
+C:\Users\ZY\Desktop\Mycontroller\Mycontroller\Mycontroller\obj\Debug\Mycontroller.Properties.Resources.resources
+C:\Users\ZY\Desktop\Mycontroller\Mycontroller\Mycontroller\obj\Debug\Mycontroller.csproj.GenerateResource.cache
+C:\Users\ZY\Desktop\Mycontroller\Mycontroller\Mycontroller\obj\Debug\Mycontroller.csproj.CoreCompileInputs.cache
+C:\Users\ZY\Desktop\Mycontroller\Mycontroller\Mycontroller\obj\Debug\Mycontroller.exe
+C:\Users\ZY\Desktop\Mycontroller\Mycontroller\Mycontroller\obj\Debug\Mycontroller.pdb
+C:\Users\ZY\Desktop\Mycontroller\Mycontroller\Mycontroller\obj\Debug\Mycontroller.Form1.resources
